@@ -355,3 +355,27 @@ html{
   padding: 0;
   background-color: #333;
 }
+
+img{
+
+ 
+  width: 30px;
+  height: 30px;
+  z-index: 1;
+  color: aliceblue;
+  background: none;
+  filter: invert(100%);
+}
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Tapestry&display=swap');
+.logo{
+  justify-content: center;
+  text-align: center;
+ 
+ margin-right: 20px;
+ font-family: 'Tapestry', cursive;
+  color: aliceblue;
+  font-size: 10px;
+}
+.company{
+  padding-top: 3px;
+}

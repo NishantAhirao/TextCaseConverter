@@ -12,7 +12,7 @@ function App() {
        </div>
        <footer>
         <div class="center">
-            Copyright &copy; www.myOnlineMeal.com. All rights reserved!
+            Copyright &copy; www.textConverter.com. All rights reserved!
         </div>
     </footer>
     </>
