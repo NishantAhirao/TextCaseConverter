@@ -7,7 +7,7 @@ export default function Navbar(props) {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       
       <div className="logo" >
-      <img src="https://cdn.pixabay.com/photo/2016/03/21/23/25/link-1271843_960_720.png" alt=""/>
+      <h1 className="theicon">&#128507;</h1>
       <div className="company">theCON</div>
         </div>
         <a className="navbar-brand" href="/">
